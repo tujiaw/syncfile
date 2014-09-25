@@ -1,0 +1,19 @@
+﻿生成启动时间为 2014/9/10 23:17:50。
+     1>项目“D:\QtProject\syncfile\syncfile\syncfile.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.3.1\5.3\msvc2012_opengl\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.3.1\5.3\msvc2012_opengl\include\QtCore /IC:\Qt\Qt5.3.1\5.3\msvc2012_opengl\include\QtGui /IC:\Qt\Qt5.3.1\5.3\msvc2012_opengl\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MainWindow.cpp
+         MainWindow.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\QtProject\syncfile\Win32\Debug\\syncfile.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.3.1\5.3\msvc2012_opengl\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\QtProject\syncfile\Win32\Debug\syncfile.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\QtProject\syncfile\Win32\Debug\syncfile.lib" /MACHINE:X86 /SAFESEH Debug\Common.obj
+         Debug\moc_Common.obj
+         Debug\moc_MainWindow.obj
+         Debug\qrc_syncfile.obj
+         Debug\main.obj
+         Debug\MainWindow.obj
+         Debug\SystemTrayIcon.obj
+         syncfile.vcxproj -> D:\QtProject\syncfile\Win32\Debug\syncfile.exe
+     1>已完成生成项目“D:\QtProject\syncfile\syncfile\syncfile.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.22
